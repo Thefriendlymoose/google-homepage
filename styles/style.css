@@ -278,9 +278,19 @@ body{
 
 @media(max-width: 800px){
 
+    .second-footer-bar {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
     .footer-left-container, .footer-right-container{
-        width: 0 auto;
-        float: none;
+        display: flex;
+        justify-content: center;
+        
+        
+
     }
 }
 
