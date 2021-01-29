@@ -281,16 +281,11 @@ body{
     .second-footer-bar {
         display: flex;
         flex-direction: column;
-        justify-content: center;
-        text-align: center;
     }
 
     .footer-left-container, .footer-right-container{
         display: flex;
         justify-content: center;
-        
-        
-
     }
 }
 
